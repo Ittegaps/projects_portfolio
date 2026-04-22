@@ -1,1 +1,1 @@
-
+This is 3D model of a café workspace designed to optimize workflow and ergonomics. The project includes layout analysis, workstation organization, and REBA-based evaluation to improve efficiency and working conditions.
