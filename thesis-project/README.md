@@ -30,12 +30,13 @@ The entire Shiny application is contained in the `/application` folder:
 - Interactive dashboard built in R Shiny  
 - Support for data-driven decision-making in sports planning  
 
-## 📌 Outcomes
+## Outcomes
 - Improved understanding of structured sports training data  
 - Identification of trends and patterns in performance-related data  
 - Development of an interactive analytical tool for data exploration  
 - Application of data visualization techniques in a real-world context  
 
-## 👩‍💻 Author
+## Author
 Master’s student in Business Intelligence  
 Wrocław University of Science and Technology
+In the end, I got the highest mark for my project – _Thesis awarded with distinction._
