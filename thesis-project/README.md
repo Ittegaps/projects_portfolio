@@ -1,20 +1,20 @@
 # Engineering Thesis Project – Data Management and Visualization for Sports Planning
 
-## 📊 Project Overview
+## Project Overview
 This project is part of my engineering thesis focused on designing and developing a tool to improve data management in the process of planning training and competition strategies in a sports club (specifically in Club XYZ).
 
 The project aims to support decision-making through data analysis, visualization, and the development of an interactive application using R Shiny.
 
-## 🎯 Objective
+## Objective
 The main objective of the project is to create a system that facilitates the organization, analysis, and visualization of sports-related data to support coaches and sports management in planning training and competition strategies.
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - R programming language  
 - R Shiny (interactive web application)  
 - Data visualization libraries (e.g. ggplot2)  
 - Data manipulation tools (e.g. dplyr)  
 
-## 📂 Project Structure
+## Project Structure
 The entire Shiny application is contained in the `/application` folder:
 
 - `app.R` – main R Shiny application file  
@@ -23,7 +23,7 @@ The entire Shiny application is contained in the `/application` folder:
 
 !!! _To run the project locally, open the `app.R` file and ensure that the dataset in `/data` is available. The dataset file needs to be in the data folder._ !!!
 
-## 📈 Key Features
+## Key Features
 - Data cleaning and preprocessing  
 - Exploratory data analysis (EDA)  
 - Visualization of key performance indicators  
