@@ -1,1 +1,1 @@
-
+BPMN model of a food ordering process in a mobile application, focusing on the customer journey from login/registration to order placement, payment, and delivery. The project highlights key decision points and user interactions.
