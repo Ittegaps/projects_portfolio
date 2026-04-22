@@ -1,1 +1,1 @@
-
+BPMN model and simulation of an equipment rental process in a construction company, including request handling, supplier selection, approvals, delivery, and invoicing. The project evaluates process efficiency and identifies potential improvements.
