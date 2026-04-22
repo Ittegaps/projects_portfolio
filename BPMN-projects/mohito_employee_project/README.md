@@ -1,1 +1,1 @@
-
+BPMN-based analysis of key processes in a MOHITO retail store, focusing on customer service. The project includes modeling of customer interaction, sales, returns, and supporting processes such as inventory management and marketing activities.
